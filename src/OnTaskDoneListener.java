@@ -1,3 +1,4 @@
- @FunctionalInterface interface OnTaskDoneListener {
-     void onDone(String result);
+@FunctionalInterface
+interface OnTaskDoneListener {
+    void onDone(String result);
 }
